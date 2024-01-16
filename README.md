@@ -4,7 +4,7 @@
 
 |[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
-| [1. Приближенное значение Пиㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [1. Приближенное значение Пи](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Кислород](./contest_01/02/main.go) |  ![](./img/go.png) |
 | [3. Частное](./contest_01/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Произведение](./contest_01/04/main.go) | ![](./img/go.png) |
@@ -27,7 +27,7 @@
 
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
-| [1. Функция. Простое числоㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
+| [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Функция. Выход из лабиринта](./contest_02/02/main.cpp) |  ![](./img/cpp.png) |
 | [3. Функция. Сортировка по количеству единиц](./contest_02/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Функция. Сумма дробей](./contest_02/04/main.cpp) | ![](./img/cpp.png) |
@@ -54,14 +54,14 @@
 
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
 | --- | :-: |
-| [1. Количество выполненных задачㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_04/01/main.go) | ![](./img/go.png) |
+| [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./img/go.png) |
 | [2. Количество выполненных задач](./contest_04/02/main.cpp) |  ![](./img/cpp.png) |
 | [3. Титаник](./contest_04/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Титаник](./contest_04/04/main.go) | ![](./img/go.png) |
 
 |[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
 | --- | :-: |
-| [1. Get a catㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
+| [1. Get a cat](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Класс. Чайник](./contest_05/02/main.cpp) |  ![](./img/cpp.png) |
 | [3. Класс. Комплексное число](./contest_05/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Класс. Point](./contest_05/04/main.cpp) | ![](./img/cpp.png) |
@@ -71,9 +71,9 @@
 
 |[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
 | --- | :-: |
-| [1. Класс. Shapeㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
+| [1. Класс. Shape](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Класс. Менеджер](./contest_06/02/main.cpp) |  ![](./img/cpp.png) |
 
 |[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
 | --- | :-: |
-| [1. Класс. RunnableСlockㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_07/01/main.cpp) | ![](./img/cpp.png) |
+| [1. Класс. RunnableСlock](./contest_07/01/main.cpp) | ![](./img/cpp.png) |
