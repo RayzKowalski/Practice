@@ -4,7 +4,7 @@
 
 |[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
-| [1. Приближенное значение Пиㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [1. Приближенное значение Пиㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Кислород](./contest_01/02/main.go) |  ![](./img/go.png) |
 | [3. Частное](./contest_01/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Произведение](./contest_01/04/main.go) | ![](./img/go.png) |
@@ -54,7 +54,7 @@
 
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
 | --- | :-: |
-| [1. Количество выполненных задачㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_04/01/main.go) | ![](./img/go.png) |
+| [1. Количество выполненных задачㅤㅤㅤㅤㅤㅤㅤㅤㅤ](./contest_04/01/main.go) | ![](./img/go.png) |
 | [2. Количество выполненных задач](./contest_04/02/main.cpp) |  ![](./img/cpp.png) |
 | [3. Титаник](./contest_04/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Титаник](./contest_04/04/main.go) | ![](./img/go.png) |
